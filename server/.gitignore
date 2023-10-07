@@ -1,0 +1,4 @@
+/node-modules
+.env
+
+# "type": "module", // this will allow to use modules in project
